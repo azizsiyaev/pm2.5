@@ -1,4 +1,3 @@
-# pm2.5
 # Implementation of system that can predict the PM2.5 level using data of Five Chinese Cities Data Set
 
 This repository will go through implementation of PM2.5 level prediction in China
